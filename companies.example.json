@@ -1,0 +1,6 @@
+[
+  { "name": "airbnb", "ats": "greenhouse" },
+  { "name": "stripe", "ats": "greenhouse" },
+  { "name": "palantir", "ats": "lever" },
+  { "name": "openai", "ats": "ashby" }
+]

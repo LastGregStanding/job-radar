@@ -1,0 +1,15 @@
+{
+  "name": "job-radar",
+  "version": "1.0.0",
+  "description": "Self-hosted job discovery pipeline: polls Greenhouse, Lever, and Ashby job boards and sends push notifications for new matching roles",
+  "main": "loop.mjs",
+  "scripts": {
+    "start": "node --env-file=.env loop.mjs",
+    "check-boards": "node check-boards.mjs"
+  },
+  "author": "Greg Preiss",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.23.1"
+  }
+}

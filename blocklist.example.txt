@@ -1,0 +1,4 @@
+# Boards to keep out of companies.json
+# One per line, in either form:
+#   lever:some-aggregator   blocks that board on Lever only
+#   some-aggregator         blocks that name on every ATS

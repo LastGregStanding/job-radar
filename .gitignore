@@ -1,0 +1,9 @@
+.env
+node_modules
+run.txt
+*.csv
+silent-run.txt
+boards.txt
+blocklist.txt
+companies.json
+.DS_Store
